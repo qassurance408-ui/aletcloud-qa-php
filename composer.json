@@ -1,7 +1,0 @@
-{
-    "name": "qa/php-test",
-    "description": "AletCloud QA PHP test",
-    "require": {
-        "php": ">=8.0"
-    }
-}
